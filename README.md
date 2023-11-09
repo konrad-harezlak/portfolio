@@ -14,6 +14,9 @@ This is my personal portfolio website showcasing my skills and projects. Feel fr
 
 Welcome to my portfolio! My name is Konrad Harężlak, and I am a Frontend Developer currently seeking job opportunities. This portfolio website provides an overview of my skills, experience, and projects. You can find details about my skills, view my projects, and get in touch with me through the contact section.
 
+### You can find deployed project below:
+### [Simple Portfolio](https://simple-portfolio-hary.netlify.app)
+
 ## Technologies
 
 - HTML
